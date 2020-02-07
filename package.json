@@ -14,8 +14,16 @@
   "author": "Samuel Mata <samuelab2@gmail.com>",
   "license": "MIT",
   "bin": {
-    "friend-list": "./bin/global.js"
+    "friend-list": "bin/global.js"
   },
   "preferGlobal": true,
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuelab2/Friend-list-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samuelab2/Friend-list-npm/issues"
+  },
+  "homepage": "https://github.com/Samuelab2/Friend-list-npm#readme"
 }
