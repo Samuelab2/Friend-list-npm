@@ -1,0 +1,21 @@
+{
+  "name": "friend-list",
+  "version": "1.0.0",
+  "description": "a command to get random messages in the console",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Samuel Mata <samuelab2@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "friend-list": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {}
+}
